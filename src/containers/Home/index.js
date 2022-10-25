@@ -20,7 +20,7 @@ function App() {
 
   async function addNewRequest() {
     const { data: newRequest } = await axios.post(
-      "http://localhost:3001/orders",
+      "https://hamburgueria-node.herokuapp.com/orders",
       {
         clienteName: inputName.current.value,
         clienteOrder: inputRequest.current.value,

@@ -20,7 +20,7 @@ function Requests() {
   useEffect(() => {
     async function fetchUsers() {
       const { data: newRequest } = await axios.get(
-        "http://localhost:3001/orders"
+        "https://hamburgueria-node.herokuapp.com/orders"
       );
 
       setRequests(newRequest);
@@ -30,7 +30,9 @@ function Requests() {
   }, []);
 
   async function deleteUser(requestId) {
-    await axios.delete(`http://localhost:3001/orders/${requestId}`);
+    await axios.delete(
+      `https://hamburgueria-node.herokuapp.com/orders/${requestId}`
+    );
 
     const newRequests = requests.filter((request) => request.id !== requestId);
 
