@@ -35,7 +35,7 @@
 <br>
 
 <div style="display: inline_block" align="center"><br>
-  <img alt="Phone-view" src="https://github.com/breno-felix/hamburgueria-react/blob/master/src/assets/iphoneView.png?raw=true">&nbsp;&nbsp;&nbsp;
+  <img alt="Phone-view" src="https://github.com/breno-felix/hamburgueria-react/blob/master/src/assets/iphoneView.png?raw=true">
   <img alt="Computer-view" src="https://github.com/breno-felix/hamburgueria-react/blob/master/src/assets/pcView.png?raw=true">
 </div>
 <br><br>
