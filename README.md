@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <a href="https://hamburgueria-react.netlify.app/">
+    <img src="https://raw.githubusercontent.com/breno-felix/hamburgueria-react/eb3a3ac3264c9677f904b8230af8f672d6cc8e07/src/assets/burger.svg" alt="Origin" width="250px">
+  </a>
+  
+  <div style="display: inline_block"><br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   <img align="center" alt="Breno-React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
+  <img align="center" alt="Breno-Node" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />   
+  <img align="center" alt="Breno-JS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  <img align="center" alt="Breno-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Breno-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          
+  </div>
+</h1>
 
-## Available Scripts
+<div align="center">
+   <a href="https://hamburgueria-react.netlify.app/">:bangbang: Click here and test this application, try Now :bangbang:</a>
+</div>
 
-In the project directory, you can run:
+<h3 align="center">
+  Register your orders easily.
+</h3>
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center">
+  <a href="#house-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#back-back-end">Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#bulb-issues">Issues</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#speaking_head-talk-to-me">Talk to me</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br>
 
-### `npm test`
+<div style="display: inline_block" align="center"><br>
+  <img alt="Phone-view" src="https://github.com/breno-felix/hamburgueria-react/blob/master/src/assets/iphoneView.png?raw=true">&nbsp;&nbsp;&nbsp;
+  <img alt="Computer-view" src="https://github.com/breno-felix/hamburgueria-react/blob/master/src/assets/pcView.png?raw=true">
+</div>
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## :house: About the project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The project simulates the beginning of a large application, with the initial function of registering and listing fast food orders.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :computer: Technologies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [ReactJS](https://reactjs.org/)
+- [Node](https://nodejs.org/dist/latest-v16.x/docs/api/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Styled Components](https://styled-components.com/)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Heroku](https://dashboard.heroku.com/)
+- [Netlify](https://www.netlify.com/)
 
-### `npm run eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# :back: Back-end
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The API project used in the Backend of this application can be found at <a href="https://github.com/breno-felix/hamburgueria-node">hamburgueria-node</a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# :bulb: Issues
 
-## Learn More
+Feel free to **file a new issue** with a respective title and description on the [Origin Take-Home Assignment](https://github.com/breno-felix/hamburgueria-react/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# :speaking_head: Talk to me
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div>
+  <a href="https://api.whatsapp.com/send?phone=5585985113119&text= "><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://github.com/breno-felix"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="www.linkedin.com/in/breno-felix-lessa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brenodev.felix@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
