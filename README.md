@@ -38,7 +38,7 @@
   <img alt="Phone-view" src="https://github.com/breno-felix/hamburgueria-react/blob/master/src/assets/iphoneView.png?raw=true">&nbsp;&nbsp;&nbsp;
   <img alt="Computer-view" src="https://github.com/breno-felix/hamburgueria-react/blob/master/src/assets/pcView.png?raw=true">
 </div>
-<br>
+<br><br>
 
 
 ## :house: About the project
@@ -61,19 +61,19 @@ The project simulates the beginning of a large application, with the initial fun
 
 <br>
 
-# :back: Back-end
+## :back: Back-end
 
 The API project used in the Backend of this application can be found at <a href="https://github.com/breno-felix/hamburgueria-node">hamburgueria-node</a>
 
 <br>
 
-# :bulb: Issues
+## :bulb: Issues
 
 Feel free to **file a new issue** with a respective title and description on the [Origin Take-Home Assignment](https://github.com/breno-felix/hamburgueria-react/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!.
 
 <br>
 
-# :speaking_head: Talk to me
+## :speaking_head: Talk to me
 
 <div>
   <a href="https://api.whatsapp.com/send?phone=5585985113119&text= "><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
